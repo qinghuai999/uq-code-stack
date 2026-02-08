@@ -234,6 +234,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[257]Binary Tree Paths.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[257]Binary Tree Paths.md" />
+              <option name="frontendQuestionId" value="leetcode.com257" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[257]Binary Tree Paths.java" />
+              <option name="titleSlug" value="binary-tree-paths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[268]Missing Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[268]Missing Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com268" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[268]Missing Number.java" />
+              <option name="titleSlug" value="missing-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java">
           <value>
             <LeetcodeEditor>
