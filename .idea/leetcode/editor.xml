@@ -454,6 +454,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[392]Is Subsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[392]Is Subsequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com392" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[392]Is Subsequence.java" />
+              <option name="titleSlug" value="is-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[405]Convert a Number to Hexadecimal.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[405]Convert a Number to Hexadecimal.md" />
+              <option name="frontendQuestionId" value="leetcode.com405" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[405]Convert a Number to Hexadecimal.java" />
+              <option name="titleSlug" value="convert-a-number-to-hexadecimal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[409]Longest Palindrome.java">
           <value>
             <LeetcodeEditor>
@@ -484,6 +506,39 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[448]Find All Numbers Disappeared in an Array.java" />
               <option name="titleSlug" value="find-all-numbers-disappeared-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[455]Assign Cookies.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[455]Assign Cookies.md" />
+              <option name="frontendQuestionId" value="leetcode.com455" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[455]Assign Cookies.java" />
+              <option name="titleSlug" value="assign-cookies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[496]Next Greater Element I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[496]Next Greater Element I.md" />
+              <option name="frontendQuestionId" value="leetcode.com496" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[496]Next Greater Element I.java" />
+              <option name="titleSlug" value="next-greater-element-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[500]Keyboard Row.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[500]Keyboard Row.md" />
+              <option name="frontendQuestionId" value="leetcode.com500" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[500]Keyboard Row.java" />
+              <option name="titleSlug" value="keyboard-row" />
             </LeetcodeEditor>
           </value>
         </entry>
